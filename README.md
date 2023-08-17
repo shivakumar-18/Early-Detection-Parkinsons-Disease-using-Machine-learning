@@ -20,10 +20,10 @@ Results: Random forest classifier achieved the highest accuracy of 91.83% compar
 
 
 Flow the project
-**1. Data Collection from UC Irvine Machine Learning Repository
-2. Data Preprocessing
-3. Exploratry Data Analysis
-4. Balancing Dataset
-5. Split Train Test
-6. Train Machine Learning Models
-7. Comparsion of results**
+**1. Data Collection from UC Irvine Machine Learning Repository**
+**2. Data Preprocessing**
+**3. Exploratory Data Analysis**
+**4. Balancing Dataset**
+**5. Split Train Test**
+**6. Train Machine Learning Models**
+**7. Comparison of results**
